@@ -1,0 +1,15 @@
+C:\Users\Misael Beriguete\Downloads\Tareas Xamarin\Grid_0710\Ubicacion_GPS\Ubicacion_GPS\Ubicacion_GPS\obj\Debug\netstandard2.0\Ubicacion_GPS.csproj.AssemblyReference.cache
+C:\Users\Misael Beriguete\Downloads\Tareas Xamarin\Grid_0710\Ubicacion_GPS\Ubicacion_GPS\Ubicacion_GPS\obj\Debug\netstandard2.0\Ubicacion_GPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Misael Beriguete\Downloads\Tareas Xamarin\Grid_0710\Ubicacion_GPS\Ubicacion_GPS\Ubicacion_GPS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Misael Beriguete\Downloads\Tareas Xamarin\Grid_0710\Ubicacion_GPS\Ubicacion_GPS\Ubicacion_GPS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Misael Beriguete\Downloads\Tareas Xamarin\Grid_0710\Ubicacion_GPS\Ubicacion_GPS\Ubicacion_GPS\obj\Debug\netstandard2.0\Ubicacion_GPS.AssemblyInfoInputs.cache
+C:\Users\Misael Beriguete\Downloads\Tareas Xamarin\Grid_0710\Ubicacion_GPS\Ubicacion_GPS\Ubicacion_GPS\obj\Debug\netstandard2.0\Ubicacion_GPS.AssemblyInfo.cs
+C:\Users\Misael Beriguete\Downloads\Tareas Xamarin\Grid_0710\Ubicacion_GPS\Ubicacion_GPS\Ubicacion_GPS\obj\Debug\netstandard2.0\Ubicacion_GPS.csproj.CoreCompileInputs.cache
+C:\Users\Misael Beriguete\Downloads\Tareas Xamarin\Grid_0710\Ubicacion_GPS\Ubicacion_GPS\Ubicacion_GPS\obj\Debug\netstandard2.0\Ubicacion_GPS.dll
+C:\Users\Misael Beriguete\Downloads\Tareas Xamarin\Grid_0710\Ubicacion_GPS\Ubicacion_GPS\Ubicacion_GPS\obj\Debug\netstandard2.0\refint\Ubicacion_GPS.dll
+C:\Users\Misael Beriguete\Downloads\Tareas Xamarin\Grid_0710\Ubicacion_GPS\Ubicacion_GPS\Ubicacion_GPS\obj\Debug\netstandard2.0\Ubicacion_GPS.pdb
+C:\Users\Misael Beriguete\Downloads\Tareas Xamarin\Grid_0710\Ubicacion_GPS\Ubicacion_GPS\Ubicacion_GPS\bin\Debug\netstandard2.0\Ubicacion_GPS.deps.json
+C:\Users\Misael Beriguete\Downloads\Tareas Xamarin\Grid_0710\Ubicacion_GPS\Ubicacion_GPS\Ubicacion_GPS\bin\Debug\netstandard2.0\Ubicacion_GPS.dll
+C:\Users\Misael Beriguete\Downloads\Tareas Xamarin\Grid_0710\Ubicacion_GPS\Ubicacion_GPS\Ubicacion_GPS\bin\Debug\netstandard2.0\Ubicacion_GPS.pdb
+C:\Users\Misael Beriguete\Downloads\Tareas Xamarin\Grid_0710\Ubicacion_GPS\Ubicacion_GPS\Ubicacion_GPS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Misael Beriguete\Downloads\Tareas Xamarin\Grid_0710\Ubicacion_GPS\Ubicacion_GPS\Ubicacion_GPS\obj\Debug\netstandard2.0\ref\Ubicacion_GPS.dll

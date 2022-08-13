@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rdhx7dI2vkFRFFWvCCl3yBZVij8xEqHbh8AfZI0gjyLeB7k22eHwR0DT29sPisFHTwgZ4tZlyvJkQmQnfHjx8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Misael Beriguete\\Downloads\\Tareas Xamarin\\Grid_0710\\Ubicacion_GPS\\Ubicacion_GPS\\Ubicacion_GPS.iOS\\Ubicacion_GPS.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Misael Beriguete\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Misael Beriguete\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Misael Beriguete\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ubicacion_GPS.MainPage">
+
+    <StackLayout>
+       <!-- Place new controls here -->
+
+        <Label Text="Ubicacion GPS"
+               FontSize="25"
+               Margin="15"
+               Padding="10"
+               />
+
+        <Image Source="https://seguridadintegralsrl.com/wp-content/uploads/2016/11/locationfeature.png" Aspect="Fill"
+               HeightRequest="{OnPlatform Android=200}"
+               WidthRequest="{OnPlatform Android=350}"
+               HorizontalOptions="Center"
+               />
+
+        <Entry Text="Nombre Ubicacion" Keyboard="Text" x:Name="txtNombreUbicacion"/>
+        <Label Text="Latitud" Margin="0,24,0,0" Padding="10" FontSize="25"/>
+        <Entry Text="" Keyboard="Numeric" x:Name="txtLatitud"/>
+        <Label Text="Longitud" Margin="0,24,0,0" Padding="10" FontSize="25"/>
+        <Entry Text="" Keyboard="Numeric" x:Name="txtLongitud"/>
+
+        <Button Text="Abrir Ubicacion" x:Name="btnAbrir" Clicked="btnAbrir_Clicked"
+                FontSize="20" BackgroundColor="Azure" BorderWidth="5" BorderColor="DarkRed"
+                CornerRadius="25"
+                WidthRequest="150"
+                HeightRequest="50"
+                TextColor="#1e3799"
+                Opacity=".5"
+                />
+        
+        
+    </StackLayout>
+
+</ContentPage>
